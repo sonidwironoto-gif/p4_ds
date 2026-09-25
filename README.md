@@ -3,7 +3,7 @@
 Project Data Science sederhana untuk menerapkan algoritma *clustering* dalam menemukan pola/segmen tersembunyi pada data nasabah kartu kredit, dikerjakan mengikuti metodologi **CRISP-DM** (Business Understanding → Data Understanding → Data Preparation → Modeling → Evaluation → Deployment).
 
 **Mata Kuliah:** Data Science — Pertemuan 4, Semester 7
-**Nama / NIM:** _(isi di sini)_
+**Nama / NIM:** _(Soni D. Wironoto/51423396)_
 
 ## Deskripsi Singkat
 
@@ -50,7 +50,7 @@ streamlit run app.py
 
 ## Link Deployment
 
-🔗 **Streamlit App:** _(isi setelah deploy, contoh: https://nama-app-anda.streamlit.app)_
+🔗 **Streamlit App:** _(https://n6mpzqxcafpmzj5zct5xb5.streamlit.app/)_
 
 ## Ringkasan Metode
 
